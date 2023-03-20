@@ -1,0 +1,11 @@
+C:\Users\George\Desktop\Patterns\CountryToTxt\CountryToTxt\obj\Debug\CountryToTxt.csproj.AssemblyReference.cache
+C:\Users\George\Desktop\Patterns\CountryToTxt\CountryToTxt\obj\Debug\CountryToTxt.csproj.SuggestedBindingRedirects.cache
+C:\Users\George\Desktop\Patterns\CountryToTxt\CountryToTxt\obj\Debug\CountryToTxt.csproj.CoreCompileInputs.cache
+C:\Users\George\Desktop\Patterns\CountryToTxt\CountryToTxt\bin\Debug\CountryToTxt.exe.config
+C:\Users\George\Desktop\Patterns\CountryToTxt\CountryToTxt\bin\Debug\CountryToTxt.exe
+C:\Users\George\Desktop\Patterns\CountryToTxt\CountryToTxt\bin\Debug\CountryToTxt.pdb
+C:\Users\George\Desktop\Patterns\CountryToTxt\CountryToTxt\bin\Debug\Newtonsoft.Json.dll
+C:\Users\George\Desktop\Patterns\CountryToTxt\CountryToTxt\bin\Debug\Newtonsoft.Json.xml
+C:\Users\George\Desktop\Patterns\CountryToTxt\CountryToTxt\obj\Debug\CountryToTxt.csproj.CopyComplete
+C:\Users\George\Desktop\Patterns\CountryToTxt\CountryToTxt\obj\Debug\CountryToTxt.exe
+C:\Users\George\Desktop\Patterns\CountryToTxt\CountryToTxt\obj\Debug\CountryToTxt.pdb

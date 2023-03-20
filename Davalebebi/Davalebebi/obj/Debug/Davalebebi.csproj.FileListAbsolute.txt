@@ -1,0 +1,16 @@
+C:\Users\George\Desktop\data_stuctures\Davalebebi\Davalebebi\bin\Debug\Davalebebi.exe.config
+C:\Users\George\Desktop\data_stuctures\Davalebebi\Davalebebi\bin\Debug\Davalebebi.exe
+C:\Users\George\Desktop\data_stuctures\Davalebebi\Davalebebi\bin\Debug\Davalebebi.pdb
+C:\Users\George\Desktop\data_stuctures\Davalebebi\Davalebebi\obj\Debug\Davalebebi.csproj.AssemblyReference.cache
+C:\Users\George\Desktop\data_stuctures\Davalebebi\Davalebebi\obj\Debug\Davalebebi.csproj.SuggestedBindingRedirects.cache
+C:\Users\George\Desktop\data_stuctures\Davalebebi\Davalebebi\obj\Debug\Davalebebi.csproj.CoreCompileInputs.cache
+C:\Users\George\Desktop\data_stuctures\Davalebebi\Davalebebi\obj\Debug\Davalebebi.exe
+C:\Users\George\Desktop\data_stuctures\Davalebebi\Davalebebi\obj\Debug\Davalebebi.pdb
+C:\Users\George\Desktop\Davalebebi\Davalebebi\bin\Debug\Davalebebi.exe.config
+C:\Users\George\Desktop\Davalebebi\Davalebebi\bin\Debug\Davalebebi.exe
+C:\Users\George\Desktop\Davalebebi\Davalebebi\bin\Debug\Davalebebi.pdb
+C:\Users\George\Desktop\Davalebebi\Davalebebi\obj\Debug\Davalebebi.csproj.AssemblyReference.cache
+C:\Users\George\Desktop\Davalebebi\Davalebebi\obj\Debug\Davalebebi.csproj.SuggestedBindingRedirects.cache
+C:\Users\George\Desktop\Davalebebi\Davalebebi\obj\Debug\Davalebebi.csproj.CoreCompileInputs.cache
+C:\Users\George\Desktop\Davalebebi\Davalebebi\obj\Debug\Davalebebi.exe
+C:\Users\George\Desktop\Davalebebi\Davalebebi\obj\Debug\Davalebebi.pdb
